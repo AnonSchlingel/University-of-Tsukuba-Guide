@@ -253,6 +253,6 @@ Check the Websites: [Japan Guide](https://www.japan-guide.com/list/e1211.html), 
 
 ## The End 
 
-This guide was created by Eddy Quiel (Germany), Shamsie Daradka (Italy) & [Valeria Terrani](https://imginn.com/valeriaterrani) (Italy) in our semester abroad 2023/24.
+This guide was created by [Eddy Quiel](https://github.com/AnonSchlingel) (Germany), Shamsie Daradka (Italy) & [Valeria Terrani](https://imginn.com/valeriaterrani) (Italy) in our semester abroad 2023/24.
 
 If you want to keep the information up-to-date or add something, you can contribute [here on GitHub](https://github.com/AnonSchlingel/University-of-Tsukuba-Guide), or you can also reach out to us.

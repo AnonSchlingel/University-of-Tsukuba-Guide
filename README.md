@@ -8,6 +8,7 @@
 * [Shopping](#ids-3)
 * [Living with dietary restrictions](#ids-4)
 * [Navigation](#ids-5)
+* [Accommodation](#ids-5b)
 * [Cafe, Wifi and places to study](#ids-6)
 * [Nightlife](#ids-7)
 * [Get a haircut](#ids-8)
@@ -166,6 +167,13 @@ When taking the Tsukuba Express Train to Tokyo, you should have a lookout for th
 The easiest way for taking trains and buses is with an IC card, since you won't need to get a ticket every time you go somewhere. For a while now, it's not possible to get a physical Suica Card that easy. IPhone users can get a digital Suica (or alternative) via an app, more about that [here](https://blog.gaijinpot.com/how-to-use-a-mobile-ic-app/). Sadly, Android users who haven't purchased their phone in Japan can't do that. As for now, you can get a ToICa Card a [Tokyo Station](https://maps.app.goo.gl/rAuk1r8v9yw1HRVC6) you can get it at JR Tokai Ticket Office (next to the Yaesu North Exit). More ticket counters [here](https://toica.jr-central.co.jp/counter/index.html).
 
 **Bonus:** Always carry a notebook with you because each station has its own stamp!
+
+
+<div id='ids-5b'/>
+
+## Accommodation
+
+Finding Hotels/ Hostels and other forms of accommodations is basically the same as everywhere else. We usually used [Agoda](https://www.agoda.com/), [Booking](https://www.booking.com/), [Airbnb](https://www.airbnb.com/) and [Hostelz](https://www.hostelz.com/). But you might also want to have a look at [Jalan](https://www.jalan.net/) ([EN](https://www.jalan.net/en/japan_hotels_ryokan/)) and [Rakuten Travel](https://travel.rakuten.co.jp/) ([EN](https://travel.rakuten.com/?scid=wi_trv_specialbanner)) which are native to Japan. Mostly the prices don't differ much from the other Websites we listed, but occasionally, you can find prices that are a bit cheaper or offer more for the same price. Some say, that the English versions of the websites list less than the Japanese versions, but in our experience, this wasn't the case.
 
 
 <div id='ids-6'/>

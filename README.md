@@ -6,7 +6,7 @@
 * [Before Leaving](#ids-1)
 * [University/ Campus](#ids-2)
 * [Shopping](#ids-3)
-* [Living dietary restrictions](#ids-4)
+* [Living with dietary restrictions](#ids-4)
 * [Navigation](#ids-5)
 * [Cafe, Wifi and places to study](#ids-6)
 * [Nightlife](#ids-7)

@@ -56,56 +56,14 @@ At least we did it that way, and it was beautiful.
  
 ## Shopping 
 
-- **Supermarkets**
-
-  * Always make sure you check the discounts, they usually have at least one section for produce and one for packed stuff and pastry.
-  * Kasumi
-    * [University ](https://maps.app.goo.gl/RJLeBkrSWzWJi8Wg9)(a little more expensive)
-    * [near Ichinoya ](https://maps.app.goo.gl/vh65SLgcYDpyvmyX8)(bigger)
-    * [near middle of the campus](https://maps.app.goo.gl/FniKuLA4DdAz2Y138)
-  * [Trail](https://maps.app.goo.gl/RuVaCrhHx7vnjTvG8)
-  * [Lopia](https://maps.app.goo.gl/UBsHuHE7oLZ4peK97) (Tsukuba Center)
-
-* **Drugstores**
-
-  * Welcia
-    * [north of Ichinoya](https://maps.app.goo.gl/C7U7VmsgBYZLkJmh7)
-    * [near the mid campus](https://maps.app.goo.gl/qJnTb1ouu9Nw6sAz8)
-
-- **Convinience Stores near Campus**
-
-  - [Lawson](https://maps.app.goo.gl/GrweYBSJdRw6s2Qs5) near Ichinoya
-  - Konbini in the [Ichinoya Community Center](https://maps.app.goo.gl/nxjdiQc47dhfK5Qa6)
-  - [7/11](https://maps.app.goo.gl/QX1ooZRre4ZLhJQd7) near mid campus
-  - [FamilyMart](https://maps.app.goo.gl/if24YM23DCn9D5py6) near mid campus
-  - [Lawson](https://maps.app.goo.gl/ieLhyyeAcNvP6uR29) near mid campus
-- **Second hand shopping**
-
-  - Second Street
-    - [Near Tsukuba Center](https://maps.app.goo.gl/hx6gtcwu6vDcudmr8) (only Clothes):
-    - [bigger one](https://maps.app.goo.gl/gD9fLNGKVahCqHfp7) that also has other stuff
-  - WonderREX
-    - [Near Ichinoya](https://maps.app.goo.gl/UFfqhBqwhE1jp4bw9)
-    - [Big branch](https://maps.app.goo.gl/iJdDhy9E1GpxsCcY8)
-  - [Hard OFF & OFF House](https://maps.app.goo.gl/w56zEyZuKZQqyHB2A) (has electronics and everything from clothes to jewelry)
-  - [Book OFF](https://maps.app.goo.gl/RY1acUKaWogK5Zkj9) (only DVDs and Books in Japanese)
-  - [YOROZU](https://maps.app.goo.gl/frqtjoy6gnCCRVhb7)
-  - WEAR CRAB (maybe also sometimes a nightclub)
-  - [book-center-campus-okada](https://maps.app.goo.gl/WTGSPNWxkFYtemGX7)
-  - [Fujishoten Tsukubaten](https://maps.app.goo.gl/FGqhw2oZLK7FGBQdA) (books, mangas, games)
-  - [Appleple](https://maps.app.goo.gl/SVvMs9yxS8vmCWGm9) (kinda stuff and everything)
-  - [may](https://maps.app.goo.gl/LKfpPCkLGz9JVtc96) (clothing)
-  - [Treasure Factory Tsukuba](https://maps.app.goo.gl/PJ8946yPzMVSCop5A)
-  - **Bonus:** [JIMOTY](https://jmty.jp) - online second hand shop like Craigslist or eBay Kleinanzeigen
-- **100¥ Shops**
-
-  - Daiso (probably the best of them all)
-    - [near Ichinoya](https://maps.app.goo.gl/m9cwcQpCPj4n262N6)
-    - [Tsukuba Center](https://maps.app.goo.gl/CYxMUucZWa29tRJp9)
-  - [Seria](https://maps.app.goo.gl/DiYKSUG9UEB8y1g48)
-  - [Watts](https://maps.app.goo.gl/bA1t49YqHewQ6UtD6)
-
-**Bonus**: [iias](https://maps.app.goo.gl/6UtKr7XQfuhtUBf47) (a massive shopping mall that also contains a cinema)
+.  |  .
+-------|-------
+**Supermarkets** |   <blockquote> Always make sure you check the discounts, they usually have at least one section for produce and one for packed stuff and pastry. </blockquote>  <li>Kasumi</li> <ul><li>[University ](https://maps.app.goo.gl/RJLeBkrSWzWJi8Wg9)(a little more expensive)</li> <li>[near Ichinoya ](https://maps.app.goo.gl/vh65SLgcYDpyvmyX8)(bigger)</li> <li>[near middle of the campus](https://maps.app.goo.gl/FniKuLA4DdAz2Y138)</li></ul> <li>[Trail](https://maps.app.goo.gl/RuVaCrhHx7vnjTvG8)</li> <li>[Lopia](https://maps.app.goo.gl/UBsHuHE7oLZ4peK97) (Tsukuba Center)</li>
+**Drugstores** | <li>Welcia</li> <ul><li>[north of Ichinoya](https://maps.app.goo.gl/C7U7VmsgBYZLkJmh7)</li> <li>[near the mid campus](https://maps.app.goo.gl/qJnTb1ouu9Nw6sAz8)</li> </ul>
+**Convinience Stores** (near Campus) | <li>[Lawson](https://maps.app.goo.gl/GrweYBSJdRw6s2Qs5) near Ichinoya</li> <li>Konbini in the [Ichinoya Community Center](https://maps.app.goo.gl/nxjdiQc47dhfK5Qa6)</li> <li>[7/11](https://maps.app.goo.gl/QX1ooZRre4ZLhJQd7) near mid campus</li> <li>[FamilyMart](https://maps.app.goo.gl/if24YM23DCn9D5py6) near mid campus</li> <li>[Lawson](https://maps.app.goo.gl/ieLhyyeAcNvP6uR29) near mid campus</li> 
+**Second hand shopping** | <li>Second Street</li> <ul><li>[Near Tsukuba Center](https://maps.app.goo.gl/hx6gtcwu6vDcudmr8) (only Clothes)</li> <li>[bigger one](https://maps.app.goo.gl/gD9fLNGKVahCqHfp7) that also has other stuff</li></ul> <li>WonderREX</li> <ul><li>[Near Ichinoya](https://maps.app.goo.gl/UFfqhBqwhE1jp4bw9)</li> <li>[Big branch](https://maps.app.goo.gl/iJdDhy9E1GpxsCcY8)</li></ul> <li>[Hard OFF & OFF House](https://maps.app.goo.gl/w56zEyZuKZQqyHB2A) (has electronics and everything from clothes to jewelry)</li> <li>[Book OFF](https://maps.app.goo.gl/RY1acUKaWogK5Zkj9) (only DVDs and Books in Japanese)</li> <li>[YOROZU](https://maps.app.goo.gl/frqtjoy6gnCCRVhb7)</li> <li>[WEAR CRAB](https://maps.app.goo.gl/9wgW3cqHmXDwpdc9A) (might occasionally be a nightclub)</li> <li>[book-center-campus-okada](https://maps.app.goo.gl/WTGSPNWxkFYtemGX7)</li> <li>[Fujishoten Tsukubaten](https://maps.app.goo.gl/FGqhw2oZLK7FGBQdA) (books, mangas, games)</li> <li>[Appleple](https://maps.app.goo.gl/SVvMs9yxS8vmCWGm9) (kinda stuff and everything)</li> <li>[may](https://maps.app.goo.gl/LKfpPCkLGz9JVtc96) (clothing)</li> <li>[Treasure Factory Tsukuba](https://maps.app.goo.gl/PJ8946yPzMVSCop5A)</li> <li>**Bonus:** [JIMOTY](https://jmty.jp) - online second hand shop like Craigslist or eBay Kleinanzeigen</li>
+**100¥ Shops** | <li>Daiso (probably the best of them all)</li> <ul><li>[near Ichinoya](https://maps.app.goo.gl/m9cwcQpCPj4n262N6)</li> <li>[Tsukuba Center](https://maps.app.goo.gl/CYxMUucZWa29tRJp9)</li></ul> <li>[Seria](https://maps.app.goo.gl/DiYKSUG9UEB8y1g48)</li> <li>[Watts](https://maps.app.goo.gl/bA1t49YqHewQ6UtD6)</li>
+**Bonus**| [iias](https://maps.app.goo.gl/6UtKr7XQfuhtUBf47) (a massive shopping mall that also contains a cinema)
 
 &nbsp;
 <div id='ids-4'/>

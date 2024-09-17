@@ -15,7 +15,6 @@
 * [Other things to do](#ids-9)
 * [The End](#ids-10)
 
-&nbsp;
 
 ---
 
@@ -25,7 +24,6 @@ At least we did it that way, and it was beautiful.
 
 ---
 
-&nbsp;
 
 <div id='ids-1'/>
 
@@ -107,7 +105,7 @@ At least we did it that way, and it was beautiful.
   - [Seria](https://maps.app.goo.gl/DiYKSUG9UEB8y1g48)
   - [Watts](https://maps.app.goo.gl/bA1t49YqHewQ6UtD6)
 
-**Bosus**: [iias](https://maps.app.goo.gl/6UtKr7XQfuhtUBf47) (a massive shopping mall that also contains a cinema)
+**Bonus**: [iias](https://maps.app.goo.gl/6UtKr7XQfuhtUBf47) (a massive shopping mall that also contains a cinema)
 
 &nbsp;
 <div id='ids-4'/>

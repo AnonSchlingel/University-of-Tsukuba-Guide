@@ -56,7 +56,7 @@ At least we did it that way, and it was beautiful.
  
 ## Shopping 
 
-.  |  .
+|  |  |
 -------|-------
 **Supermarkets** |   <blockquote> Always make sure you check the discounts, they usually have at least one section for produce and one for packed stuff and pastry. </blockquote>  <li>Kasumi</li> <ul><li>[University ](https://maps.app.goo.gl/RJLeBkrSWzWJi8Wg9)(a little more expensive)</li> <li>[near Ichinoya ](https://maps.app.goo.gl/vh65SLgcYDpyvmyX8)(bigger)</li> <li>[near middle of the campus](https://maps.app.goo.gl/FniKuLA4DdAz2Y138)</li></ul> <li>[Trail](https://maps.app.goo.gl/RuVaCrhHx7vnjTvG8)</li> <li>[Lopia](https://maps.app.goo.gl/UBsHuHE7oLZ4peK97) (Tsukuba Center)</li>
 **Drugstores** | <li>Welcia</li> <ul><li>[north of Ichinoya](https://maps.app.goo.gl/C7U7VmsgBYZLkJmh7)</li> <li>[near the mid campus](https://maps.app.goo.gl/qJnTb1ouu9Nw6sAz8)</li> </ul>

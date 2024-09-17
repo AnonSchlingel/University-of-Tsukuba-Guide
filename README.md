@@ -15,6 +15,7 @@
 * [Other things to do](#ids-9)
 * [The End](#ids-10)
 
+&nbsp;
 
 ---
 
@@ -23,6 +24,8 @@
 At least we did it that way, and it was beautiful.
 
 ---
+
+&nbsp;
 
 <div id='ids-1'/>
 
@@ -36,7 +39,7 @@ At least we did it that way, and it was beautiful.
 | **Socket Adapter**        | You’ll need a Type A - SE adapter, in order to use your typical EU and Type F (Schuko) plugs. You can buy these easily at the airport after arriving in Japan.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | **Communication**         | The most used messenger among the Japanese is [LINE](https://line.me/en/), if you get a SIM-Card without a phone number, make sure, you create an account in your home country. <br/><br/>[WhatsApp](https://www.whatsapp.com) is probably the most used messenger around the exchange students.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 
-
+&nbsp;
 <div id='ids-2'/>
 
 ## University/ Campus 
@@ -48,7 +51,7 @@ At least we did it that way, and it was beautiful.
 | [**Academic calendar**](https://www.tsukuba.ac.jp/en/academics/academic-calendar/index.html)     | We suggest to always check, since there are many national holidays here (luckily shops won’t close on most of them and convenience stores will always be open).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | [**UoT official Student Guide**](https://www.tsukuba.ac.jp/campuslife/students-guidebook-en.pdf) | It’s a thing, might be helpful.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | **Clubs**                                                                                        | The university is home to over a hundred student clubs (full list [here](https://ssc.sec.tsukuba.ac.jp/%e8%aa%b2%e5%a4%96%e6%b4%bb%e5%8b%95%e5%9b%a3%e4%bd%93) and more about clubs and circles [here](https://www.tsukuba.ac.jp/en/campuslife/activity-unions-circles/)). For most of them, speaking Japanese would be advisable.<br/><br/>For exchange students that want to connect to other exchange students as well as local student, [CASA](https://www.instagram.com/casatsukuba/?hl=en) on Monday and [Omochi](https://www.instagram.com/omochi_lang_club/) (language exchange) on Friday would be the best.<br/><br/>At the beginning of the semester there will also be a day, in which clubs will introduce themselves and where you can check them out and talk to the members.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-
+&nbsp;
 <div id='ids-3'/>
 
 ## Shopping 
@@ -151,7 +154,7 @@ If you are looking for processed food, a translator app with the function of ima
 Always check the ingredients, even if you only want to eat chips or usually gluten
 free food because soy sauce is everywhere. It's best, if you bring a lot of your own food from home. In Japan, they often don’t know what gluten is and that some people are allergic to it. In general, avoid any type of sauce and avoid eating out in restaurants as much as possible. Indian (curry) and Vietnamese restaurants (pho and many rice noodles with no soy sauce) will be a place, where you'll find something for sure. You can also try to order gluten free food online.
 
-
+&nbsp;
 <div id='ids-5'/>
 
 ## Navigation 
@@ -168,14 +171,14 @@ The easiest way for taking trains and buses is with an IC card, since you won't 
 
 **Bonus:** Always carry a notebook with you because each station has its own stamp!
 
-
+&nbsp;
 <div id='ids-5b'/>
 
 ## Accommodation
 
 Finding Hotels/ Hostels and other forms of accommodations is basically the same as everywhere else. We usually used [Agoda](https://www.agoda.com/), [Booking](https://www.booking.com/), [Airbnb](https://www.airbnb.com/) and [Hostelz](https://www.hostelz.com/). But you might also want to have a look at [Jalan](https://www.jalan.net/) ([EN](https://www.jalan.net/en/japan_hotels_ryokan/)) and [Rakuten Travel](https://travel.rakuten.co.jp/) ([EN](https://travel.rakuten.com/?scid=wi_trv_specialbanner)) which are native to Japan. Mostly the prices don't differ much from the other Websites we listed, but occasionally, you can find prices that are a bit cheaper or offer more for the same price. Some say, that the English versions of the websites list less than the Japanese versions, but in our experience, this wasn't the case.
 
-
+&nbsp;
 <div id='ids-6'/>
 
 ## Café, WiFi and places to study 
@@ -186,7 +189,7 @@ Finding Hotels/ Hostels and other forms of accommodations is basically the same 
 - [Global Village Community Center](https://maps.app.goo.gl/vDbDhbJrxju6C3A48)
 
 
-
+&nbsp;
 <div id='ids-7'/>
 
 ## Nightlife 
@@ -214,7 +217,7 @@ If you head further south from Bar Progress next to Matsumi Park, you'll arrive 
 - [A guide](https://www.reddit.com/r/JapanTravel/comments/14sum76/how_to_access_live_music_in_japan_and_why_it/) on finding live music in Japan
 
 
-
+&nbsp;
 <div id='ids-8'/>
 
 ## Get a haircut 
@@ -226,7 +229,7 @@ Here in Japan, I*(Valeria)* had a drastic haircut, I recommend it to you too. He
 * There is also a hairdresser inside the [Ichinoya Community Center](https://maps.app.goo.gl/n3xQPckfBanRhPXj6), but we haven’t been there yet.
 
 
-
+&nbsp;
 <div id='ids-9'/>
 
 ## Other things to do 
@@ -256,7 +259,7 @@ Check the Websites: [Japan Guide](https://www.japan-guide.com/list/e1211.html), 
   * Takes about 40 min by bike and is home to the biggest fireworks competition in Japan, with fireworks lasting for more than 2 hours. The festival is held every first Saturday of October from 6:00 p.m. to 8:30 p.m. [[Official Website](https://www.tsuchiura-hanabi.jp)]
 
 
-
+&nbsp;
 <div id='ids-10'/>
 
 ## The End 

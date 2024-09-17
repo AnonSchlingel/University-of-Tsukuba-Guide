@@ -114,7 +114,7 @@ If you still want to go out for food, Indian/ Nepalese restaurants are one of th
 
 #### **Our favorites in Tsukuba are:**
 
-- [Jewel of India](https://maps.app.goo.gl/8qcYcqxfcJExWBAt9) (truly the jewel of our harts)
+- [Jewel of India](https://maps.app.goo.gl/8qcYcqxfcJExWBAt9) (truly the jewel of our hearts)
 - [Ritz'n](https://maps.app.goo.gl/pAnsVtYr2xP3o8k38)
 - the [vegan Bento/ Resturant place](https://maps.app.goo.gl/DkQhm2nQN4pAoGfg6)
 - [Tsukuba Demi](https://maps.app.goo.gl/Qy6kLWZBRRZGiRff6) offer a vegan week **every two month** - check the [menu](https://kosei.sec.tsukuba.ac.jp/store/store_51)

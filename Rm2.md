@@ -24,6 +24,7 @@ At least we did it that way, and it was beautiful.
 ---
 
 <div id='ids-1'/>
+ 
 ## Before leaving
 
 |

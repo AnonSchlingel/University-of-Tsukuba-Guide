@@ -35,6 +35,8 @@ At least we did it that way, and it was beautiful.
 | **Socket Adapter**        | You’ll need a Type A - SE adapter in order to use your typical EU and Type |
 | **Communication**         | The most used messenger among the Japanese is [LINE](https://line.me/en/). If you get a SIM-Card without a phone number, make sure you create an account in your home country. <br/><br/>[WhatsApp](https://www.whatsapp.com) is probably the |
 
+
+
 &nbsp;
 <div id='ids-2'/>
 
